@@ -60,7 +60,7 @@ const Login = () => {
       </form>
 
       <div className="mt-4 text-center">
-        <p>Don't have an account? <a href="/" className="text-blue-500">Sign up here</a></p>
+        <p>Don't have an account? <a href="./Membership" className="text-blue-500">Sign up here</a></p>
       </div>
     </div>
   );
